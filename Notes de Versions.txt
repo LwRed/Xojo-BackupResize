@@ -1,0 +1,24 @@
+Backup & Resize by SoftSteph ;)
+***
+
+v1.4 du 23/10/2019
+Réglage de la Résolution
+Réglage de la Qualité de Compression Jpg
+Intégration aux Préférences
+Corrections de bugs divers sur l'interface
+
+v1.3 du 23/10/2019
+Bouton STOP pour interruption de la convertion ou de la copie des fichiers
+
+v.1.2 du 22/10/2019
+Système de Sauvegarde des Préférences au format JSON
+(Actuellement sauvegardé dans SpecialFolder/ApplicationData)
+
+v.1.1 du 21/10/2019
+L'image dans les canvas est désormais sur fond sombre
+
+
+A faire :
+
+Résolution
+Simplifier le JSON
