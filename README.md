@@ -3,7 +3,7 @@ Logiciel permettant de sauvegarder des fichiers en convertissant les fichiers JP
 
 
 Fonctionnalités :
-  - Mac et Pc
+  - Fonctionne sous MacOs et Pc Windows
   - Réglage de la résolution
   - Réglage de la qualité Jpg
   - Ajout possible d'un cadre photo
