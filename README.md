@@ -15,6 +15,15 @@ Fonctionnalités :
 
 Historique des Versions :
 
+v0.8 du 01/03/2025
+Ajout de la possibilité de copier tous les types de fichiers
+
+v0.7 du 01/03/2025
+Ajout de l'option d'Antialiasing pour une meilleur qualité des photos
+
+v0.06 du 11/09/2023
+Api 2.0
+
 v0.5 du 19/08/2022
 Correction d'un Bug lors de l'importation de repertoires avec beaucoup de Photos
 
