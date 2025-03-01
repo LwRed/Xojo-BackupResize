@@ -13,6 +13,12 @@ Fonctionnalités :
   ToDo List:
  - Corriger le bug sous Windows de mauvaise rotation des images
 
+# Mac-Os v0.5
+<img src="MacOs.png" width="640">
+# Windows v0.8 (last)
+<img src="Windows.png" width="640">
+
+
 Historique des Versions :
 
 v0.8 du 01/03/2025
@@ -43,7 +49,7 @@ Système de Sauvegarde des Préférences au format JSON
 v.0.1 du 21/10/2019
 L'image dans les canvas est désormais sur fond sombre
 
-<img src="MacOs.png" width="640">
+
 
 
 Si vous aimez mes programmes, <a href="https://www.paypal.com/donate/?hosted_button_id=GY5LTDDPZ2HZG"> vous pouvez faire un don PayPal ;)</a>
