@@ -3,15 +3,17 @@ Logiciel permettant de sauvegarder des fichiers en convertissant les fichiers JP
 
 
 Fonctionnalités :
-  - Fonctionne sous MacOs et Pc Windows
-  - Réglage de la résolution
-  - Réglage de la qualité Jpg
-  - Ajout possible d'un cadre photo
-  - Ajout possible d'une ombre sur cadre photo
-  - Possibilité d'effacer le répertoire de destination, ou d'ignorer les photos déjà converties
-  
-  ToDo List:
- - Corriger le bug sous Windows de mauvaise rotation des images
+
+- Logiciel permettant la conversion en Lots de Photos avec recherche dans les sous-repertoires
+- Sauvegarde des Préférences
+- Rotation automatiques des images sous Windows
+- Ajout possible d'un cadre à la photo
+- Ajout possible d'une ombre à la photo
+- Copie possible des vidéos
+- Copie possible des autres types de fichiers
+
+Todo List :
+- Conversion des vidéos
 
 # Mac-Os v0.5
 <img src="MacOs.png" width="640">
@@ -21,6 +23,9 @@ Fonctionnalités :
 
 
 Historique des Versions :
+
+v0.9 du 02/03/2025
+Rotation des images sous Windows grâce à l'intégration d'un module EXIF
 
 v0.8 du 01/03/2025
 Ajout de la possibilité de copier tous les types de fichiers
