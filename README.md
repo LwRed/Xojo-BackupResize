@@ -26,6 +26,7 @@ Historique des Versions :
 
 v0.9 du 02/03/2025
 Rotation des images sous Windows grâce à l'intégration d'un module EXIF
+Sous MacOS, conversion des fichiers .heic en plus des traditionnels .jpg
 
 v0.8 du 01/03/2025
 Ajout de la possibilité de copier tous les types de fichiers
