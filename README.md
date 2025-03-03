@@ -24,6 +24,9 @@ Todo List :
 
 Historique des Versions :
 
+v0.10 du 03/03/2025
+Amélioration de la qualité de conversion des images sous MacOs
+
 v0.9 du 02/03/2025
 Rotation des images sous Windows grâce à l'intégration d'un module EXIF
 Sous MacOS, conversion des fichiers .heic en plus des traditionnels .jpg
