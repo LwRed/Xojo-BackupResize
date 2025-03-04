@@ -24,6 +24,9 @@ Todo List :
 
 Historique des Versions :
 
+v0.11 du 04/03/2025
+Correction d'un bug sur le calcul de la taille des images dans la procédure de rotation
+
 v0.10 du 03/03/2025
 Amélioration de la qualité de conversion des images sous MacOs
 
