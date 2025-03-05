@@ -24,6 +24,9 @@ Todo List :
 
 Historique des Versions :
 
+v0.12 du 05/03/2025
+Les fichiers .Heic sont convertis en .Jpg et renommés avec la bonne extension
+
 v0.11 du 04/03/2025
 Correction d'un bug sur le calcul de la taille des images dans la procédure de rotation
 
